@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bóng đá bụi</string>
+    <string name="fb_app_id">2117250761841984</string>
+    <string name="fb_login_protocol_scheme">fb2117250761841984</string>
+</resources>

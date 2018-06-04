@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "858636991462",
+    "firebase_url": "https://testdatabase-41f31.firebaseio.com",
+    "project_id": "testdatabase-41f31",
+    "storage_bucket": "testdatabase-41f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858636991462:android:95a67450edb9761f",
+        "android_client_info": {
+          "package_name": "com.reackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858636991462-shobkh3v0elm06e579lq7ue712a0227g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reackathon",
+            "certificate_hash": "d88acd1f8eb0eddd06a87bab6173ca2d99603693"
+          }
+        },
+        {
+          "client_id": "858636991462-jg4a3tsk24skqcpskeleeg8i531ju6n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reackathon",
+            "certificate_hash": "85bca82224fab327dcc415146bb624bbb18f8841"
+          }
+        },
+        {
+          "client_id": "858636991462-70pk14ag8rk20ja82pu8chp3iifv60en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reackathon",
+            "certificate_hash": "056af90b19876f647bd0889c178023400818d96f"
+          }
+        },
+        {
+          "client_id": "858636991462-bkvdnmijaofcgpmee36851qreu285eed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reackathon",
+            "certificate_hash": "99b5c388840a2849f3edcdc6759c4f8b119eb946"
+          }
+        },
+        {
+          "client_id": "858636991462-fs762gedi0mc4fgacagb37bvbdm200fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reackathon",
+            "certificate_hash": "a859ecf61fe789c3f0ef75f506ce412ba4876c7d"
+          }
+        },
+        {
+          "client_id": "858636991462-4iib4gr1fq2jpqn2tj6t9b1mtl6q779e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reackathon",
+            "certificate_hash": "0317213da9d0bab351c975a38e7a5936d8c1bed5"
+          }
+        },
+        {
+          "client_id": "858636991462-sufrds4clt72r7je43ofe301dj8lf6lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjMx-Nc7bhGJgWAl1M-0MqPFAb0nB9Ivg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858636991462-sufrds4clt72r7je43ofe301dj8lf6lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
